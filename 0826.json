@@ -19,27 +19,6 @@
       }
     },
     {
-      "key": "新6V",
-      "name": "🌐新6V磁力",
-      "type": 3,
-      "api": "csp_SixV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "siteUrl": "https://www.xb6v.com/"
-      }
-    },
-    {
-      "key": "YGP",
-      "name": "🚀新片速递",
-      "type": 3,
-      "api": "csp_YGP",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
       "key": "饭太硬",
       "name": "🍚饭太硬合集",
       "type": 3,
@@ -60,17 +39,7 @@
       "ext": "https://agit.ai/fantaiying/box/raw/branch/master/fm.json"
     },
     {
-      "key": "唐三",
-      "name": "🎬唐三片仓",
-      "type": 3,
-      "api": "csp_XB",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://www.xb6v.com/"
-    },
-    {
-      "key": "道人",
+      "key": "道长",
       "name": "🏃道长推荐",
       "type": 3,
       "api": "csp_XPath",
@@ -80,14 +49,14 @@
       "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json"
     },
     {
-      "key": "多多",
-      "name": "🎯多多看剧",
+      "key": "欧歌",
+      "name": "📡欧歌多仓",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://bitbucket.org/xduo/cool/raw/main/room.json"
+      "ext": "http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌"
     },
     {
       "key": "老刘备",
@@ -100,14 +69,22 @@
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/liu673cn/box/main/m.json"
     },
     {
-      "key": "喵影视",
-      "name": "🐱喵影视",
+      "key": "YGP",
+      "name": "🚀新片速递",
       "type": 3,
-      "api": "csp_XPath",
+      "api": "csp_YGP",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "剧荒",
+      "name": "📺剧荒推荐",
+      "type": 3,
+      "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://www.meowtv.vip/tvbox.json"
+      "changeable": 1
     },
     {
       "key": "酷猫",
@@ -131,40 +108,36 @@
       "changeable": 1
     },
     {
-      "key": "影搜",
-      "name": "🔍影搜官",
+      "key": "厂长",
+      "name": "🎬厂长不卡",
       "type": 3,
-      "api": "csp_Xinsj",
-      "timeout": 15,
+      "api": "csp_NewCz",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.80yy3.com/"
+      "changeable": 0,
+      "ext": "https://www.czzy77.com/"
     },
     {
-      "key": "南瓜",
-      "name": "🎃南瓜影视",
+      "key": "豆瓣",
+      "name": "🌕豆瓣热播",
       "type": 3,
-      "api": "csp_NanGua",
-      "timeout": 15,
-      "playerType": 1,
+      "api": "csp_DouDou",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
     {
-      "key": "欧歌",
-      "name": "📡欧歌多仓",
+      "key": "糯米",
+      "name": "🍓糯米秒播",
       "type": 3,
-      "api": "csp_XPath",
+      "api": "csp_Nmyswv",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌"
+      "changeable": 1
     },
     {
-      "key": "剧荒",
-      "name": "📺剧荒推荐",
+      "key": "苹果",
+      "name": "🍎苹果IJK",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -172,34 +145,151 @@
       "changeable": 1
     },
     {
-      "key": "唐三大全",
-      "name": "🎞️唐三大全",
+      "key": "素白",
+      "name": "🏳️素白白影视",
       "type": 3,
-      "api": "csp_XB",
+      "api": "csp_SuBaiBai",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://gitee.com/tang3661/tangsy/raw/master/ts.json"
+      "changeable": 1
     },
     {
-      "key": "摸鱼4K",
-      "name": "🎮摸鱼4K",
+      "key": "IKan",
+      "name": "💕爱看影视",
       "type": 3,
-      "api": "csp_XPath",
+      "api": "csp_Ikan",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://我不是.摸鱼儿.com"
+      "changeable": 1
     },
     {
-      "key": "OK影视",
-      "name": "✅OK影视",
+      "key": "肥兔",
+      "name": "🐰肥兔影视",
       "type": 3,
-      "api": "csp_XPath",
+      "api": "csp_FreeOK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "哔嘀",
+      "name": "💦哔嘀影视",
+      "type": 3,
+      "api": "csp_Bdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "皮皮虾",
+      "name": "🦐皮皮虾影视",
+      "type": 3,
+      "api": "csp_PipiXia",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "在线",
+      "name": "🍊在线外剧",
+      "type": 3,
+      "api": "csp_Zxzj",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://ok321.top/ok"
+      "ext": "https://www.zxzjhd.com/"
+    },
+    {
+      "key": "低端",
+      "name": "⏮️低端外剧",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Aue",
+      "name": "🏝️Aue无广",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://auete.pro/"
+    },
+    {
+      "key": "动漫巴士",
+      "name": "🚌动漫巴士",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "樱花动漫",
+      "name": "💮樱花动漫",
+      "type": 3,
+      "api": "csp_Ying",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "异界动漫",
+      "name": "🎀异界动漫",
+      "type": 3,
+      "api": "csp_Ysj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "4K剧院",
+      "name": "🎦4K剧院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "./libs/hccx/4k剧院.json"
+    },
+    {
+      "key": "索尼",
+      "name": "🐉索尼高清",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "非凡资源",
+      "name": "🥗非凡资源",
+      "type": 1,
+      "api": "http://ffzy1.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "量子资源",
+      "name": "🥑量子资源",
+      "type": 1,
+      "api": "https://lzizy1.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "可可资源",
+      "name": "⛱可可采集",
+      "type": 1,
+      "api": "https://kekezy1.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
     }
   ],
   "lives": [
@@ -219,6 +309,13 @@
       "type": 0,
       "url": "https://live.fanmingming.com/tv/m3u8/ipv6.m3u8",
       "playerType": 1
+    },
+    {
+      "name": "直播转点播",
+      "type": 3,
+      "api": "./libs/tv/zb.min.js",
+      "searchable": 1,
+      "ext": "./libs/tv/zb.json"
     }
   ]
 }
