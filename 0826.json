@@ -1,6 +1,6 @@
 {
   "spider": "./jar/fan.txt;md5;aa164c88dfaf62b98b44fc6086a77fef",
-  "wallpaper": "https://bing.imgpro.xyz",
+  "wallpaper": "https://bing.com",
   "sites": [
     {
       "key": "玩偶",
@@ -56,17 +56,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌"
-    },
-    {
-      "key": "老刘备",
-      "name": "📺老刘备",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/liu673cn/box/main/m.json"
+      "ext": "http://tv.nxog.top/api.php?mz=xb&id=1&b=%E6%AC%A7%E6%AD%8C"
     },
     {
       "key": "YGP",
@@ -190,16 +180,6 @@
       "changeable": 1
     },
     {
-      "key": "在线",
-      "name": "🍊在线外剧",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://www.zxzjhd.com/"
-    },
-    {
       "key": "低端",
       "name": "⏮️低端外剧",
       "type": 3,
@@ -294,28 +274,10 @@
   ],
   "lives": [
     {
-      "name": "live",
+      "name": "🆓 IPV6直播源",
       "type": 0,
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/zhw2698539/tvbox/main/live.txt",
+      "url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
       "playerType": 1
-    },
-    {
-      "name": "XMTV",
-      "type": 0,
-      "url": "https://xhdwc.tk/xiuta.m3u8"
-    },
-    {
-      "name": "IPV6",
-      "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u8/ipv6.m3u8",
-      "playerType": 1
-    },
-    {
-      "name": "直播转点播",
-      "type": 3,
-      "api": "./libs/tv/zb.min.js",
-      "searchable": 1,
-      "ext": "./libs/tv/zb.json"
     }
   ]
 }
